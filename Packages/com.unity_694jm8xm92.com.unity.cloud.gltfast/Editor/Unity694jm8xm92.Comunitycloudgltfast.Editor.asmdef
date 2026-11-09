@@ -1,0 +1,10 @@
+{
+    "name": "Unity694jm8xm92.Comunitycloudgltfast.Editor",
+    "references": [
+      "Unity694jm8xm92.Comunitycloudgltfast"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

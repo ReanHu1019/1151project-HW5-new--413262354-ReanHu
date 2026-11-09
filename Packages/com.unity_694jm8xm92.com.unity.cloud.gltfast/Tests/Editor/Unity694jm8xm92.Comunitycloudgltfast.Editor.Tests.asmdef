@@ -1,0 +1,14 @@
+{
+    "name": "Unity694jm8xm92.Comunitycloudgltfast.Editor.Tests",
+    "references": [
+        "Unity694jm8xm92.Comunitycloudgltfast.Editor",
+        "Unity694jm8xm92.Comunitycloudgltfast"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

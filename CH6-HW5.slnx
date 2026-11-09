@@ -1,0 +1,8 @@
+﻿<Solution>
+  <Project Path="Assembly-CSharp-Editor.csproj" />
+  <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="Unity694jm8xm92.Comunitycloudgltfast.csproj" />
+  <Project Path="Unity694jm8xm92.Comunitycloudgltfast.Editor.Tests.csproj" />
+  <Project Path="Unity694jm8xm92.Comunitycloudgltfast.Editor.csproj" />
+  <Project Path="Unity694jm8xm92.Comunitycloudgltfast.Tests.csproj" />
+</Solution>

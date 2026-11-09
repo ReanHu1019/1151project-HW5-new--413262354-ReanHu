@@ -1,0 +1,11 @@
+{
+    "name": "Unity694jm8xm92.Comunitycloudgltfast.Tests",
+    "references": [
+        "Unity694jm8xm92.Comunitycloudgltfast"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}
